@@ -46,7 +46,7 @@ This is a simple Todo application built with Next.js, Firebase as DB, and Python
 
    Check fast-todo bakend doc
 
-   [![GitHub Repo stars](https://img.shields.io/github/stars/shyamkumarps/fast-todo?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyamkumarps/fast-todo.git)
+   [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyamkumarps/fast-todo.git)
 
 4. **Run the Development Server**
 
