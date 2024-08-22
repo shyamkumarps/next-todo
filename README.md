@@ -22,9 +22,9 @@ This is a simple Todo application built with Next.js, Firebase as DB, and Python
 
    Navigate into the project directory:
 
-```bash
+   ```bash
    cd next-todo
-```
+   ```
 
 2. **Install Dependencies**
 
