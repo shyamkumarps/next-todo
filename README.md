@@ -2,7 +2,7 @@
 
 This is a simple Todo application built with Next.js, Firebase as DB, and Python FastAPI.
 
-![Vercel Deployment](https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![Vercel Deployment](https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://next-todo-eta-ten.vercel.app/)
 
 ## Getting Started
 
