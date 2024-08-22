@@ -17,6 +17,7 @@ const AddTodo = () => {
   const [description, setDescription] = React.useState("");
   const [status, setStatus] = React.useState("pending");
   const [isLoading, setIsLoading] = React.useState(false);
+  const base_url = process.env.NEXT_PUBLIC_BASE_URL;
 
   const toast = useToast();
 
@@ -24,7 +25,12 @@ const AddTodo = () => {
 
   const CallAPI = async (todo) => {
     try {
-      const response = await axios.post("http://127.0.0.1:8000/todos", todo);
+      if (!base_url) {
+        console.error(
+          "BASE_URL is not defined. Check your environment variables."
+        );
+      }
+      const response = await axios.post(`${base_url}/todos`, todo);
       await addTodo(response.data);
     } catch (error) {
       console.error("Error creating todo:", error);
