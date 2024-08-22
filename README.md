@@ -60,12 +60,12 @@ This command will start the server, and you should be able to access the app at 
 
 ### Additional Notes
 
-- Backend: Ensure your Python environment is active when working on the FastAPI backend.
-- Environment Variables: Ensure your Firebase credentials are correctly filled in the .env.local file to enable proper communication between your app and Firebase.
-- Hot Reloading: The development server supports hot reloading, so changes to your code will automatically refresh the app.
+- **Backend:** Ensure your Python environment is active when working on the FastAPI backend.
+- **Environment Variables:** Ensure your Firebase credentials are correctly filled in the .env.local file to enable proper communication between your app and Firebase.
+- **Hot Reloading:** The development server supports hot reloading, so changes to your code will automatically refresh the app.
 
 ### Deployment
 
 For deploying the frontend:
 
-Vercel: Next.js applications are seamlessly deployable on Vercel. Follow Vercel's deployment guide to deploy your Next.js application.
+- **Vercel:** Next.js applications are seamlessly deployable on Vercel. Follow Vercel's deployment guide to deploy your Next.js application.
