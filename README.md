@@ -2,9 +2,11 @@
 
 This is a simple Todo application built with Next.js, Firebase as DB, and Python FastAPI.
 
-## Demo
+## DEMO
 
 [![Next-Todo Vercel Deployment](https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://next-todo-eta-ten.vercel.app/)
+
+[https://next-todo-eta-ten.vercel.app/](https://next-todo-eta-ten.vercel.app/)
 
 ## Getting Started
 
@@ -64,7 +66,7 @@ This is a simple Todo application built with Next.js, Firebase as DB, and Python
    yarn dev
    ```
 
-This command will start the server, and you should be able to access the app at http://localhost:3000.
+This command will start the server, and you should be able to access the app at [http://localhost:3000](http://localhost:3000).
 
 ### Additional Notes
 
