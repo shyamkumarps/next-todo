@@ -42,7 +42,13 @@ This is a simple Todo application built with Next.js, Firebase as DB, and Python
    yarn install
    ```
 
-3. **Run the Development Server**
+3. **Backend Connection**
+
+   Check fast-todo bakend doc
+
+   [![GitHub Repo stars](https://img.shields.io/github/stars/your-username/todo-app?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyamkumarps/fast-todo.git)
+
+4. **Run the Development Server**
 
    Start the Next.js development server:
 
